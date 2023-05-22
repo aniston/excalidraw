@@ -22,6 +22,9 @@
 
 <br />
 <p align="center">
+  <a href="aarch64 build =">
+    <img alt="ci:passing" src="https://github.com/aniston/excalidraw/actions/workflows/build_push_dockerHub.yml/badge.svg"  />
+  </a>
   <a href="https://github.com/excalidraw/excalidraw/blob/master/LICENSE">
     <img alt="Excalidraw is released under the MIT license." src="https://img.shields.io/badge/license-MIT-blue.svg"  />
   </a>
