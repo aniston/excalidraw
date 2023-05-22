@@ -22,7 +22,7 @@
 
 <br />
 <p align="center">
-  <a href="aarch64 build =">
+  <a href="https://github.com/aniston/excalidraw/actions">`aarch64`&nbsp
     <img alt="ci:passing" src="https://github.com/aniston/excalidraw/actions/workflows/build_push_dockerHub.yml/badge.svg"  />
   </a>
   <a href="https://github.com/excalidraw/excalidraw/blob/master/LICENSE">
