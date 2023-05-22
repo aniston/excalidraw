@@ -1,12 +1,12 @@
-name: ci
+name: ci_1checkout_2login_3build_4push
 
 on:
   push:
     branches:
-      - "master"
+      - master
 
 jobs:
-  build:
+  buildimage:
     runs-on: ubuntu-latest
     steps:
       -
